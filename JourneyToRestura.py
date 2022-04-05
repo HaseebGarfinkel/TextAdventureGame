@@ -1326,6 +1326,7 @@ while response == 0:
   ███    ███ ███   ███ ███   ▄███ 
   ██████████  ▀█   █▀  ████████▀                                 
         """)
+        input("")
     elif menu_choice == "2":
         response += 1
         exit()
